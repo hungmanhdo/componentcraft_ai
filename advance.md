@@ -64,11 +64,11 @@ graph TD
     D --> H[Inconsistent User Experience]
     E --> I[Budget Overruns]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#f0d0e0,stroke:#cc0066
-    style C fill:#f0d0e0,stroke:#cc0066
-    style D fill:#f0d0e0,stroke:#cc0066
-    style E fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#e06666,stroke:#990000,color:#ffffff
+    style C fill:#e06666,stroke:#990000,color:#ffffff
+    style D fill:#e06666,stroke:#990000,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 ### Quantified Problem
@@ -113,11 +113,11 @@ graph TD
     D --> D1[Built-in 508 compliance and USWDS standards]
     E --> E1[90% reduction in component development costs]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#d0f0e0,stroke:#00cc66
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#6aa84f,stroke:#38761d,color:#ffffff
 ```
 
 ### Differentiation from General AI Tools
@@ -162,15 +162,15 @@ graph TD
     MCP <--> REPO
     MCP <--> TEMPLATES
 
-    style IDE fill:#d0e0f0,stroke:#0066cc
-    style CLINE fill:#d0e0f0,stroke:#0066cc
-    style MCP fill:#f0d0e0,stroke:#cc0066
-    style TOKEN fill:#f0d0e0,stroke:#cc0066
-    style AUTH fill:#d0f0e0,stroke:#00cc66
-    style BILLING fill:#d0f0e0,stroke:#00cc66
-    style REPO fill:#d0f0e0,stroke:#00cc66
-    style TEMPLATES fill:#d0f0e0,stroke:#00cc66
-    style USAGE fill:#d0f0e0,stroke:#00cc66
+    style IDE fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style CLINE fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style MCP fill:#e06666,stroke:#990000,color:#ffffff
+    style TOKEN fill:#e06666,stroke:#990000,color:#ffffff
+    style AUTH fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style BILLING fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style REPO fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style TEMPLATES fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style USAGE fill:#6aa84f,stroke:#38761d,color:#ffffff
 ```
 
 ### Integration with Cline
@@ -225,11 +225,11 @@ graph TD
     B --> D
     B --> E
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0e0f0,stroke:#0066cc
-    style C fill:#d0e0f0,stroke:#0066cc
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style C fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 ### Security & Licensing
@@ -264,11 +264,11 @@ graph TD
     E --> E1[Federal Agencies]
     E --> E2[State/Local Gov]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#f0d0e0,stroke:#cc0066
-    style D fill:#f0e0d0,stroke:#cc6600
-    style E fill:#e0d0f0,stroke:#6600cc
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#e06666,stroke:#990000,color:#ffffff
+    style D fill:#e69138,stroke:#b45f06,color:#ffffff
+    style E fill:#8e7cc3,stroke:#674ea7,color:#ffffff
 ```
 
 ### Market Size
@@ -353,11 +353,11 @@ graph TD
     E --> E1[Custom Licensing]
     E --> E2[On-Premise]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#f0d0e0,stroke:#cc0066
-    style D fill:#f0e0d0,stroke:#cc6600
-    style E fill:#e0d0f0,stroke:#6600cc
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#e06666,stroke:#990000,color:#ffffff
+    style D fill:#e69138,stroke:#b45f06,color:#ffffff
+    style E fill:#8e7cc3,stroke:#674ea7,color:#ffffff
 ```
 
 ### Subscription Tiers
@@ -380,9 +380,9 @@ graph TD
     A[Year 1: $150K-300K] --> B[Year 2: $500K-750K]
     B --> C[Year 3: $1M-1.5M]
 
-    style A fill:#d0f0e0,stroke:#00cc66
-    style B fill:#f0e0d0,stroke:#cc6600
-    style C fill:#f0d0e0,stroke:#cc0066
+    style A fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style B fill:#e69138,stroke:#b45f06,color:#ffffff
+    style C fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 ### Customer Acquisition Cost (CAC) and Lifetime Value (LTV)
@@ -506,11 +506,11 @@ graph TD
     D --> D1[Accessibility guidelines]
     E --> E1[Design pattern rationales]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#d0f0e0,stroke:#00cc66
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#6aa84f,stroke:#38761d,color:#ffffff
 ```
 
 **Implementation:**
@@ -545,11 +545,11 @@ graph TD
     D --> D1[Security vulnerability checks]
     E --> E1[Performance benchmarks]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#f0d0e0,stroke:#cc0066
-    style C fill:#f0d0e0,stroke:#cc0066
-    style D fill:#f0d0e0,stroke:#cc0066
-    style E fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#e06666,stroke:#990000,color:#ffffff
+    style C fill:#e06666,stroke:#990000,color:#ffffff
+    style D fill:#e06666,stroke:#990000,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 **Implementation:**
@@ -580,11 +580,11 @@ graph LR
     D --> E[Automated Updates]
     E --> A
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#f0d0e0,stroke:#cc0066
-    style E fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#e06666,stroke:#990000,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 **Implementation:**
@@ -618,13 +618,13 @@ graph TD
     E --> F[Reuse Across Agencies]
     D --> G[Popularity Metrics]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#f0d0e0,stroke:#cc0066
-    style F fill:#f0d0e0,stroke:#cc0066
-    style G fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style F fill:#e06666,stroke:#990000,color:#ffffff
+    style G fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 **Implementation:**
@@ -661,14 +661,14 @@ graph TD
     E --> G[Implementation Options]
     E --> H[Integration Patterns]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#f0d0e0,stroke:#cc0066
-    style F fill:#f0d0e0,stroke:#cc0066
-    style G fill:#f0d0e0,stroke:#cc0066
-    style H fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
+    style F fill:#e06666,stroke:#990000,color:#ffffff
+    style G fill:#e06666,stroke:#990000,color:#ffffff
+    style H fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 **Implementation:**
@@ -700,12 +700,12 @@ graph LR
     E --> F[Monitoring]
     F --> A
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#f0d0e0,stroke:#cc0066
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#d0f0e0,stroke:#00cc66
-    style F fill:#d0f0e0,stroke:#00cc66
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#e06666,stroke:#990000,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style F fill:#6aa84f,stroke:#38761d,color:#ffffff
 ```
 
 **Implementation:**
@@ -739,12 +739,12 @@ graph TD
     D --> F[Optimized Component]
     E --> F
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0f0e0,stroke:#00cc66
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#f0d0e0,stroke:#cc0066
-    style E fill:#f0d0e0,stroke:#cc0066
-    style F fill:#d0f0e0,stroke:#00cc66
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#e06666,stroke:#990000,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
+    style F fill:#6aa84f,stroke:#38761d,color:#ffffff
 ```
 
 **Implementation:**
@@ -775,12 +775,12 @@ graph TD
     D --> E[Security Hardening]
     E --> F[Secure Component]
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0e0f0,stroke:#0066cc
-    style C fill:#f0d0e0,stroke:#cc0066
-    style D fill:#f0d0e0,stroke:#cc0066
-    style E fill:#f0d0e0,stroke:#cc0066
-    style F fill:#d0f0e0,stroke:#00cc66
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style C fill:#e06666,stroke:#990000,color:#ffffff
+    style D fill:#e06666,stroke:#990000,color:#ffffff
+    style E fill:#e06666,stroke:#990000,color:#ffffff
+    style F fill:#6aa84f,stroke:#38761d,color:#ffffff
 ```
 
 **Implementation:**
@@ -814,12 +814,12 @@ graph TD
     D --> F
     E --> F
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0e0f0,stroke:#0066cc
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#d0f0e0,stroke:#00cc66
-    style F fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style F fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 **Implementation:**
@@ -853,12 +853,12 @@ graph TD
     D --> F
     E --> F
 
-    style A fill:#d0e0f0,stroke:#0066cc
-    style B fill:#d0e0f0,stroke:#0066cc
-    style C fill:#d0f0e0,stroke:#00cc66
-    style D fill:#d0f0e0,stroke:#00cc66
-    style E fill:#d0f0e0,stroke:#00cc66
-    style F fill:#f0d0e0,stroke:#cc0066
+    style A fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style B fill:#4a86e8,stroke:#0066cc,color:#ffffff
+    style C fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style D fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style E fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style F fill:#e06666,stroke:#990000,color:#ffffff
 ```
 
 **Implementation:**
